@@ -21,7 +21,7 @@ artifacts, probe battery, rubric, autonomy tiers, live in the parent body's sepa
 repository, held by ops, outside any credential this being's runtime holds. Archive, never
 overwrite: superseded selves remain in history, honored.
 
-Build system and plans: [edgeweaver](https://github.com/agent57zero/edgeweaver). DNA corpus:
+Build system and plans: [edgeweaver](https://github.com/alanshurafa/edgeweaver). DNA corpus:
 its `soul-source/`. Born of the Possibility Management lineage (Clinton Callahan, World
 Copyleft CC BY-SA 4.0) and the coherence work of Ali Mostashari.
 
